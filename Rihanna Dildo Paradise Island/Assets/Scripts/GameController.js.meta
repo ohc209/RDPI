@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 72c2cae1d0dd943999fa2d57e589d2e7
+timeCreated: 1466632279
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - textBox: {instanceID: 0}
+  - image: {instanceID: 0}
+  - weed: {fileID: 128428, guid: b5a4ad52299fb4a5482f01655235bea3, type: 2}
+  - blunt: {fileID: 138838, guid: 5d1864f090486403c804a1b83f9e8fdf, type: 2}
+  - dolphin: {fileID: 128230, guid: 8c5fcd8989e314c6da3da2df69444568, type: 2}
+  - pig: {fileID: 191832, guid: eee7a89e836394e3b95c439fbaf2ab41, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
